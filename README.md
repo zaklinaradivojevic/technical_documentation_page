@@ -1,3 +1,0 @@
-# technical_documentation_page
-freecodecamp project
-Technical Documentation Page
